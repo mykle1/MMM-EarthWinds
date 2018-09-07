@@ -2,6 +2,10 @@
 
 Displays current wind conditions on Earth
 
+## Video
+
+https://www.youtube.com/watch?v=syr_GCnpv2A&lc=z22nxl5pzvm0uzitjacdp432n5huphw1t1poemhvvuhw03c010c
+
 ## Installation
 
 * `git clone https://github.com/mykle1/MMM-EarthWinds` into the `~/MagicMirror/modules` directory.
