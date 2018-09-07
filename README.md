@@ -16,7 +16,7 @@ Displays current wind conditions on Earth
         position: 'fullscreen',
         config: {
             height:"1180px", // adjust
-		width:"100%",    // adjuset
+		width:"100%",    // adjust
             animationSpeed: "3000",
             updateInterval: 24 * 60 * 60 * 1000,
         }
