@@ -1,6 +1,8 @@
 ## MMM-EarthWinds
 
-Displays current wind conditions on Earth
+Live background that displays current wind conditions on Earth
+
+Any orientation you desire. Just click and drag.
 
 ## Video
 
